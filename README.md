@@ -7,10 +7,8 @@ Although the dataset is limited, this project demonstrates **end-to-end data ana
 
 ## Methodology
 The analysis involved:
-
 1.  **Data Loading & Cleaning**: The CSV data was loaded and pre-processed in Python.
-2.  **Segmentation**: 
-- Market segmentation based on:
+2.  **Segmentation**: Market segmentation based on:
 - Vehicle type
 - Brand
 - Fuel type
@@ -19,5 +17,9 @@ The analysis involved:
 4.  **Insights & Recommendations**: Key insights were extracted regarding fuel efficiency preferences, brand dominance (Toyota), and the nature of the luxury car market (Porsche, Jaguar).
 
 #here are some screenshot of the slides:
-![image alt]()
+First,starting with histogram to check how data is spread
+![image alt](https://github.com/Nirali-khirsaria/Marketing-Analysis/blob/a171e09d41e810132b95d4927bb82d8a7043ef0d/Screenshot%202025-12-16%20180907.png)
 
+Key observations:
+The price distribution is right-skewed (positively skewed).
+Most used cars are concentrated in the lower to mid-price range.
