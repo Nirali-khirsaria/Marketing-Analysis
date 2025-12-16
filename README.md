@@ -22,5 +22,5 @@ The analysis involved:
 
 
 #HERE IS THE SCREENSHOT OF THE PRESENTATION:
-
+![image alt](https://github.com/Nirali-khirsaria/Marketing-Analysis/blob/b757b4ab964aa2b415f2adfa1b75f8904c1dd225/Screenshot%202025-12-16%20174940.png)
 
