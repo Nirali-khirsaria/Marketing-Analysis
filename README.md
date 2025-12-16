@@ -23,3 +23,10 @@ First,starting with histogram to check how data is spread
 Key observations:
 The price distribution is right-skewed (positively skewed).
 Most used cars are concentrated in the lower to mid-price range.
+
+![image alt](https://github.com/Nirali-khirsaria/Marketing-Analysis/blob/1f5852a6200ff4c3044a978ca4ea4fc2b95fea3f/Screenshot%202025-12-16%20174940.png)
+
+### Customer Behavior Insights
+- A few car brands dominate customer demand.
+- Higher horsepower vehicles generally have higher prices.
+- Gasoline cars are more common in higher price and performance ranges.
