@@ -30,3 +30,12 @@ Most used cars are concentrated in the lower to mid-price range.
 - A few car brands dominate customer demand.
 - Higher horsepower vehicles generally have higher prices.
 - Gasoline cars are more common in higher price and performance ranges.
+
+![image alt](https://github.com/Nirali-khirsaria/Marketing-Analysis/blob/a1c165e4b2399b09023e0f6dce2351cd24fd8352/Screenshot%202025-12-16%20182110.png)
+
+### Market Analysis
+- Sedans and hatchbacks dominate the used car market, indicating higher customer demand for these body styles.
+- Wagons, hardtops, and convertibles represent niche segments with lower market presence.
+- Market share is concentrated among a few major car brands, while many brands hold smaller shares.
+- This indicates a **competitive market driven by popular body styles and well-established brands**.
+
