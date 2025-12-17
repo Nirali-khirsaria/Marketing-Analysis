@@ -39,3 +39,14 @@ Most used cars are concentrated in the lower to mid-price range.
 - Market share is concentrated among a few major car brands, while many brands hold smaller shares.
 - This indicates a **competitive market driven by popular body styles and well-established brands**.
 
+![image alt](https://github.com/Nirali-khirsaria/Marketing-Analysis/blob/c58b54753f15583a33a24b608bd37701e528024f/Screenshot%202025-12-16%20175533.png)
+
+This segmentation helps identify customer preferences and supports targeted marketing and pricing strategies.
+
+Recommendations:
+Targeted Marketing: Focus campaigns on high-demand brands and body types, such as sedans and hatchbacks, to reach the majority of buyers.
+Offer after sales services: door to door maintenance plans can attract customers.
+Digital & Social Media Strategies:Create high-quality videos and content emphasizing design, sound, and performance.
+For Luxury cars make it all about experience for example,website,showcase, customer interaction should be feel premium and smooth.
+Create high quality content,add customer review videos to improve sales.
+
